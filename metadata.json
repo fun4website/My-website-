@@ -1,0 +1,8 @@
+
+{
+  "name": "AetherFlow: AI Hand-Controlled Particles",
+  "description": "A high-performance interactive 3D particle system using Three.js and MediaPipe hand tracking, enhanced by Gemini AI to transform gestures into visual art.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
